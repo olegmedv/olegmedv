@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/medvedev_oleg765" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/medvedev_oleg765" target="blank"><img align="center" src="https://github.com/olegmedv/olegmedv/blob/main/icons/Telegram.svg" alt="medvedev_oleg765" height="40" width="40" /></a>
 </p>
 
 ### Languages:
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/olegmedv/olegmedv/blob/main/icons/c-sharp-c-seeklogo.com.svg" alt="cplusplus" width="40" height="40"/> </a> 
+
