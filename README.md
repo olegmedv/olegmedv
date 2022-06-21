@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/medvedev_oleg765" target="blank"><img align="center" src="https://github.com/olegmedv/olegmedv/blob/main/icons/Telegram.svg" alt="medvedev_oleg765" height="40" width="40" /></a>
+<a href="mailto:olegmedvmail@gmail.com"><img align="center" src="https://github.com/olegmedv/olegmedv/blob/main/icons/Gmail_icon_(2020).svg" alt="olegmedvmail@gmail.com" height="40" width="40" /></a>
 </p>
 
 ### Languages:
