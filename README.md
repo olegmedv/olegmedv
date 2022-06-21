@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Oleg Medvedev</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Fullstack/Backend Developer</h3>
 
 Here are some ideas to get you started:
 
