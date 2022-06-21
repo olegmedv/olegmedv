@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Oleg Medvedev</h1>
 <h3 align="center">Fullstack/Backend Developer</h3>
 
-Here are some ideas to get you started:
+
 
 - 🌱 I’m currently learning **python, C#, .NET, web**
 - 📫 How to reach me: **olegmedvmail@gmail.com**
