@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python, C#, .NET, web**
 - 📫 How to reach me: **olegmedvmail@gmail.com**
-- 🌍 I speak English (B1)
+- 🌍 I speak English (B2)
 
 ### Connect with me:
 <p align="left">
