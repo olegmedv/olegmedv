@@ -18,3 +18,4 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/olegmedv/olegmedv/blob/main/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/olegmedv/olegmedv/blob/main/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/olegmedv/olegmedv/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/olegmedv/olegmedv/blob/main/icons/Unofficial_JavaScript_logo_2.svg" alt="cs" width="40" height="40"/> </a> 
