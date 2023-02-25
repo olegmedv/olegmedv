@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **python Java, C#, .NET, Javascript, web**
+- 🌱 I’m currently learning **python, Java, C#, .NET, Javascript, web**
 - 📫 How to reach me: **olegmedvmail@gmail.com**
 - 🌍 I speak English (B2)
 
