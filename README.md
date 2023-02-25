@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Python, Java, C#, .NET, Javascript, Web**
-- 📫 How to reach me: **olegmedvmail@gmail.com**
+- 📫 How to reach me: **olegmedvmail@gmail.com** <a href="https://t.me/medvedev_oleg765" target="blank">**Telegram:@medvedev_oleg765**</a>
 - 🌍 I speak English (B2)
 
 ### Connect with me:
