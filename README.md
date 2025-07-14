@@ -135,7 +135,11 @@ const olegMedvedev = {
   </table>
 </div>
 
+<h2 align="center">📊 GitHub Analytics</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegmedv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
