@@ -1,148 +1,99 @@
-<h1 align="center">Hello, I'm Oleg Medvedev</h1>
-<h3 align="center">Full Stack Developer | ASP.NET | Angular | .NET Core</h3>
+# Oleg Medvedev
 
-<h2 align="center">🤝 Let's Connect</h2>
+Full-stack developer on Vancouver Island, British Columbia. Twelve years of professional
+software work, most of it on enterprise business systems, now building web applications
+and AI-assisted tooling. Authorized to work full-time in Canada.
 
-<div align="center">
-  <a href="https://t.me/medvedev_oleg765" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:omedvwork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/17789922682" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</div>
-
-<div align="center">
-  <p>📧 <strong>omedvwork@gmail.com</strong></p>
-  <p>🌍 <strong>English (B2, IELTS 6, Duolingo 110) | French (A1)</strong></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/olegmedv/olegmedv/blob/main/icons/developer-gif.gif" width="400" height="200" />
-</div>
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olegmedv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-```typescript
-const olegMedvedev = {
-  title: "Full Stack Developer",
-  location: "🌍 Available worldwide",
-  experience: "6+ years",
-  specialization: ["ASP.NET", ".NET Core", "Angular", "JavaScript"],
-  currentFocus: "Building scalable web applications",
-  
-  dailyStats: {
-    transactionsProcessed: "10K+",
-    platformVolume: "10M+ CAD",
-    codeQuality: "Error-free production"
-  },
-  
-  languages: ["English (B2, IELTS 6)", "French (A1)"],
-  motto: "Delivering efficient solutions with attention to detail"
-};
-```
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🌱 Learning</td>
-      <td align="center">💼 Building</td>
-      <td align="center">🔧 Optimizing</td>
-    </tr>
-    <tr>
-      <td align="center">Advanced .NET & JavaScript</td>
-      <td align="center">Fintech Solutions</td>
-      <td align="center">Performance & Security</td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">💼 Professional Highlights</h2>
-
-
-### 🏆 Key Achievements
-- 📊 **10K+ daily transactions** processed error-free
-- 💰 **10M+ CAD daily volume** on fintech platform
-- 🚀 **30% productivity increase** with AI document analysis
-- 🔒 **95% attack prevention** through security optimization
-- 📱 **25% boost in repeat purchases** via loyalty program
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-        <br>.NET
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-        <br>Angular
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-        <br>jQuery
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL Server" />
-        <br>SQL Server
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegmedv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+C# / .NET · React · Angular · TypeScript · PostgreSQL · SQL Server · Docker
+Claude Code and Model Context Protocol servers in daily use.
 
 ---
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/olegmedv">olegmedv</a> with passion for clean code and innovative solutions</i>
-</div>
+## LinguaCMS
+
+An open-source platform that lets language communities build their own interactive
+courses. It was built for endangered languages, where there is no commercial incentive
+for anyone to make a Duolingo course, so the community has to be able to make it itself.
+
+**[Product site](https://landing.linguacms.twilightparadox.com/)** ·
+**[Live demo](https://linguacms.twilightparadox.com/)** ·
+**[Source](https://github.com/olegmedv/lingua-ms)** ·
+**[Featured by North Island College](https://learndigital.dev/students/oleg-medvedev/)**
+
+> ### The demo needs no account
+> Open the [live demo](https://linguacms.twilightparadox.com/) and press the
+> **Try Demo** button under the login form. No sign-up, no email, no password.
+> It drops you straight into a working dashboard with two courses loaded, including
+> a real ʔayʔaǰuθəm course with content sourced from FirstVoices.
+
+What is in it:
+
+- Eight interactive exercise types with audio from fluent speakers: multiple choice,
+  listen and select, listen and type, match pairs, image select, word bank,
+  fill in the blank, flashcards
+- A no-code course builder, so a teacher can create lessons without writing anything
+- Progress tracking, streaks, spaced repetition and automatic lesson unlocking
+- An admin area for managing languages, courses, lessons and exercises
+
+Stack: React 19 and TypeScript on the front end, .NET 9 REST API built on a CQRS
+pattern, PostgreSQL, JWT authentication with role-based access, Docker.
+Self-hosted on my own VPS: containers behind nginx with TLS, deployed and maintained
+by me rather than pushed to a managed platform.
+
+This was my capstone project at North Island College, and the program published it on
+its student showcase:
+[learndigital.dev/students/oleg-medvedev](https://learndigital.dev/students/oleg-medvedev/).
+The problem it exists for, in one line from that page: *most language learning apps
+serve languages with millions of speakers, but over 3,000 endangered languages
+worldwide have zero digital learning tools.*
+
+The product site is a separate, hand-written static page with no framework and no
+build step. Semantic HTML, responsive layout, scroll-reveal sections and a custom
+type scale. The copy, the layout, the comparison table and the demo video are mine.
+
+---
+
+## Explore Comox Valley
+
+A regional tourism site for the Comox Valley on Vancouver Island: Courtenay, Comox
+and Cumberland. Six content sections covering things to do, places to stay, food and
+drink, events and trip planning.
+
+**[Live site](https://explorecomoxvalley.crabdance.com/)**
+
+The work here is information architecture, content structure and responsive layout
+rather than application code: organising a large amount of regional material so a
+visitor can find one thing quickly, with optimised images and mobile navigation.
+Built on WordPress with a block theme. Independent project, not affiliated with any
+tourism authority.
+
+---
+
+## agentic-harness
+
+A self-hosted Model Context Protocol server that exposes CRUD tools over a .NET back
+end, together with custom agent skills that plan, critique and execute code changes
+under review.
+
+**[Source](https://github.com/olegmedv/agentic-harness)**
+
+I use it every day. The part I care about most is not the model call, it is what
+surrounds it: generated output has to be validated before anything downstream depends
+on it, and an agent that is confidently wrong costs more than no agent at all. So the
+evaluation path and the human review step come first, and the automation comes second.
+
+---
+
+## Background
+
+- Post-Graduate Diploma, Digital Design and Development, North Island College, 2026.
+  GPA 4.23 / 4.33, Dean's Honour Roll, Coding Award 2026.
+- Five-year Specialist Diploma, Applied Informatics, Kaliningrad State Technical
+  University.
+- Eight years building and integrating ERP systems for retail, accounting, inventory,
+  pharmacy and municipal utility clients, then five years on modern web stacks.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/oleg-medvedev-canada-bc) ·
+oleg.medvedev.ca@gmail.com
