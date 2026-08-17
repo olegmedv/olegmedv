@@ -21,7 +21,7 @@ for anyone to make a Duolingo course, so the community has to be able to make it
 **[Source](https://github.com/olegmedv/lingua-ms)** ·
 **[Featured by North Island College](https://learndigital.dev/students/oleg-medvedev/)**
 
-[![LinguaCMS product site](assets/linguacms-landing.png)](https://landing.linguacms.twilightparadox.com/)
+[![LinguaCMS product site](assets/linguacms-landing.jpg)](https://landing.linguacms.twilightparadox.com/)
 
 > ### The demo needs no account
 > Open the [live demo](https://linguacms.twilightparadox.com/) and press the
@@ -29,7 +29,7 @@ for anyone to make a Duolingo course, so the community has to be able to make it
 > It drops you straight into a working dashboard with two courses loaded, including
 > a real ʔayʔaǰuθəm course with content sourced from FirstVoices.
 
-[![LinguaCMS application](assets/linguacms-app.png)](https://linguacms.twilightparadox.com/)
+[![LinguaCMS application](assets/linguacms-app.jpg)](https://linguacms.twilightparadox.com/)
 
 What is in it:
 
@@ -66,7 +66,7 @@ drink, events and trip planning.
 
 **[Live site](https://explorecomoxvalley.crabdance.com/)**
 
-[![Explore Comox Valley](assets/comox-valley.png)](https://explorecomoxvalley.crabdance.com/)
+[![Explore Comox Valley](assets/comox-valley.jpg)](https://explorecomoxvalley.crabdance.com/)
 
 The work here is information architecture, content structure and responsive layout
 rather than application code: organising a large amount of regional material so a
