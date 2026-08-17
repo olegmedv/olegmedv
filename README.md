@@ -1,8 +1,9 @@
 # Oleg Medvedev
 
-Full-stack developer on Vancouver Island, British Columbia. Twelve years of professional
-software work, most of it on enterprise business systems, now building web applications
-and AI-assisted tooling. Authorized to work full-time in Canada.
+Full-stack developer in Canada. Twelve years of professional software work, most of it
+on enterprise business systems, now building web applications and AI-assisted tooling.
+Authorized to work full-time in Canada, open to relocation anywhere in the country and
+to remote work across Canadian time zones.
 
 C# / .NET · React · Angular · TypeScript · PostgreSQL · SQL Server · Docker
 Claude Code and Model Context Protocol servers in daily use.
@@ -20,11 +21,15 @@ for anyone to make a Duolingo course, so the community has to be able to make it
 **[Source](https://github.com/olegmedv/lingua-ms)** ·
 **[Featured by North Island College](https://learndigital.dev/students/oleg-medvedev/)**
 
+[![LinguaCMS product site](assets/linguacms-landing.png)](https://landing.linguacms.twilightparadox.com/)
+
 > ### The demo needs no account
 > Open the [live demo](https://linguacms.twilightparadox.com/) and press the
 > **Try Demo** button under the login form. No sign-up, no email, no password.
 > It drops you straight into a working dashboard with two courses loaded, including
 > a real ʔayʔaǰuθəm course with content sourced from FirstVoices.
+
+[![LinguaCMS application](assets/linguacms-app.png)](https://linguacms.twilightparadox.com/)
 
 What is in it:
 
@@ -60,6 +65,8 @@ and Cumberland. Six content sections covering things to do, places to stay, food
 drink, events and trip planning.
 
 **[Live site](https://explorecomoxvalley.crabdance.com/)**
+
+[![Explore Comox Valley](assets/comox-valley.png)](https://explorecomoxvalley.crabdance.com/)
 
 The work here is information architecture, content structure and responsive layout
 rather than application code: organising a large amount of regional material so a
